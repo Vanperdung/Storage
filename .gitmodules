@@ -1,3 +1,6 @@
 [submodule "udacity/CppND-Route-Planning-Project"]
 	path = udacity/CppND-Route-Planning-Project
 	url = git@github.com:Vanperdung/CppND-Route-Planning-Project.git
+[submodule "udacity/CppND-System-Monitor"]
+	path = udacity/CppND-System-Monitor
+	url = git@github.com:Vanperdung/CppND-System-Monitor.git
